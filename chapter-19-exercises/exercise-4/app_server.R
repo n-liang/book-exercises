@@ -20,3 +20,4 @@ server <- function(input, output) {
       scale_x_continuous(limits = input$percentile)
   })
 }
+
